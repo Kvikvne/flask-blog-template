@@ -4,7 +4,7 @@ A simple blog website built using Flask and Python.
 
 ## Installation
 1. Clone the repository.
-2. Install the required packages using `pip install -r requirements.txt`.
+2. from flask import Flask, render_template and from post import Post
 3. Run the application using `python app.py`.
 
 ## Usage
